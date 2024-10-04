@@ -1,3 +1,4 @@
+# Docker compose
 name: selmag
 services:
   # Инфраструктура
